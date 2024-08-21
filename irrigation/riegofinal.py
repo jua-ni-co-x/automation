@@ -2,7 +2,7 @@
 """
 Created on Sat Jan 28 10:22:45 2023
 
-@author: juann
+@author: jua-ni-co-x
 """
 import Adafruit_BBIO.GPIO as GPIO
 import time as t
